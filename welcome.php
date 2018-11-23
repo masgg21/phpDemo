@@ -8,3 +8,4 @@
 echo "欢迎你";
 echo "nice";
 echo "yey";
+echo "尝试";
