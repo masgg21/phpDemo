@@ -6,3 +6,4 @@
  * Time: 3:31 PM
  */
 echo "欢迎你";
+echo "nice";
